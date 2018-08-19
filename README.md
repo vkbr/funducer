@@ -7,7 +7,7 @@ Note: This is just a syntatic sugar an in no way replace redux or part of it.
 ## Usage
 
 ```js
-import funducer from 'funducer`;
+import funducer from 'funducer';
 
 const INCR_COUNTER = 'counter/increment';
 const DECR_COUNTER = 'countger/decrement';
